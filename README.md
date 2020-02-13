@@ -1,12 +1,14 @@
-# Discovery SDK for iOS (Preview)
+# [ARCHIVED] Discovery SDK for iOS (Preview)
 
-**Important:** This preview SDK has been deprecated and is no longer being maintained. We recommend that you use [Microsoft Graph](https://graph.microsoft.com/) and the associated [Microsoft Graph SDKs](https://developer.microsoft.com/en-us/graph/code-samples-and-sdks) instead.
+> [!IMPORTANT]
+> This preview SDK has been deprecated and this repo is no longer being maintained. We recommend that you use [Microsoft Graph](https://graph.microsoft.com/) and the associated [Microsoft Graph SDKs](https://developer.microsoft.com/en-us/graph/code-samples-and-sdks) instead.
+
+> [!NOTE]
+> Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the Office/SharePoint development workload in Visual Studio, or the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office), and follow security best practices as you develop the add-in.
 
 Easily integrate services and data from Discovery into native iOS apps using this Objective-C library.
 
 ---
-
-:exclamation:**NOTE**: This code and associated binaries are released as a developer *PREVIEW*. You are free to use this library according to the terms of its included [LICENSE](/LICENSE) and to open issues in this repo for unofficial support.
 
 Information about official Microsoft support is available  [here][support-placeholder].
 
